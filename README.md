@@ -6,7 +6,7 @@
 
     2.2 在keys.config填入私钥，一行一个
 
-    2.3 执行```python GenesisBox_script.py```即可
+    2.3 执行 python GenesisBox_script.py 即可
 
     2.4 会在创建result.txt文件来记录各个地址的积分数量
 ### 注意事项
